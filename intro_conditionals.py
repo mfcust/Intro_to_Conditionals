@@ -31,9 +31,9 @@ print("I'll put your food in the fridge until you're ready!")
       
 # 4) Conditions help us compare things! We compare things by using RELATIONAL OPERATORS! Did you notice we are using a
 #double equals (==) sign? This is fundamentally different than using one equals sign. Remember, using one equals sign is how we create a variable.
-#Observe the code below:
+#Uncomment the print function and run the code below:
 x= "hello"
-print(x)
+#print(x)
 #What printed to the console?
 
 
