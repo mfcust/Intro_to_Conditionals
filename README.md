@@ -15,7 +15,7 @@ if answer == "yes":
   print("I made you some lunch!")
   
 if answer =="no":
-  print("I'll put your food in the fridge until you're ready!"
+  print("I'll put your food in the fridge until you're ready!")
   ```
 Copy and paste this code into your .py file and see what happens when you type in "yes" or "no" in response to your input question.
 
