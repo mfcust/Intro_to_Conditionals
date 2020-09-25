@@ -9,7 +9,7 @@ Let's think about how to structure that logic in English below:
         
 In Python, we can simulate this scenario by asking the user a question, and storing the answer as a variable. Then, depending on the answer, we can print a response to the output window. Let's see how this looks in Python code:
 ```
-answer = input("Are you hungry?")
+answer = input("Are you hungry? ")
 
 if answer == "yes":
   print("I made you some lunch!")
@@ -17,4 +17,6 @@ if answer == "yes":
 if answer =="no":
   print("I'll put your food in the fridge until you're ready!"
   ```
-When this program is run
+Copy and paste this code into your .py file and see what happens when you type in "yes" or "no" in response to your input question.
+
+This is a basic example of what a conditional statement is! Navigate to your Python file to learn more about them!
