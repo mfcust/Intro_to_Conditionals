@@ -65,6 +65,8 @@ number = 10
 
 
 # 6)Uncomment the code below to find and correct the error!
+#HINT: The int() functions converts strings and floats into integers
+
 '''
 age = input("How old are you?")
 
